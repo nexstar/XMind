@@ -1,0 +1,144 @@
+{
+  "date": "",
+  "info": {
+    "services": "",
+    "userid": "",
+    "passwd": "",
+    "email": "",
+    "pic": "",
+    "sex": "",
+    "ymd": "",
+    "zip": "",
+    "address": "",
+    "phone": {
+      "phone": "",
+      "device": "",
+      "token": "",
+      "uuid": ""
+    }
+  },
+  "web": {
+    "QA": [
+      {
+        "title": "",
+        "contents": "",
+        "date": ""
+      }
+    ],
+    "transaction": [
+      {
+        "number": "",
+        "date": "",
+        "status": "",
+        "vat": "",
+        "subscribe": {
+          "user": "",
+          "phone": "",
+          "zip": "",
+          "city": "",
+          "address": ""
+        },
+        "receive": {
+          "user": "",
+          "phone": "",
+          "zip": "",
+          "city": "",
+          "address": ""
+        },
+        "cargo": [
+          {
+            "number": "",
+            "name": "",
+            "count": "",
+            "bonus": "",
+            "money": ""
+          },
+          {
+            "number": "",
+            "name": "",
+            "count": "",
+            "bonus": "",
+            "money": ""
+          }
+        ],
+        "totalmoney": ""
+      }
+    ]
+  },
+  "app": {
+    "petlist": [
+      {
+        "id": "",
+        "name": "",
+        "env": "",
+        "planttype": "",
+        "plantname": "",
+        "pic": "",
+        "verify": "0",
+        "connected": "0"
+      }
+    ],
+    "notifi": [
+      {
+        "title": "",
+        "pic": "",
+        "contents": "",
+        "link": "",
+        "status": "1"
+      },
+      {
+        "title": "",
+        "pic": "",
+        "contents": "",
+        "link": "null",
+        "status": "0"
+      }
+    ],
+    "blog": [
+      {
+        "blogid": "aaw12311tcxssssfaa"
+      },
+      {
+        "blogid": "faaw123112132"
+      }
+    ],
+    "petdiary": [
+      {
+        "title": "",
+        "pic": "",
+        "contents": ""
+      },
+      {
+        "title": "",
+        "pic": "",
+        "contents": ""
+      }
+    ],
+    "point": {
+      "fb": [
+        {
+          "date": ""
+        },
+        {
+          "date": ""
+        }
+      ],
+      "blog": [
+        {
+          "date": ""
+        },
+        {
+          "date": ""
+        }
+      ],
+      "cart": [
+        {
+          "date": ""
+        },
+        {
+          "date": ""
+        }
+      ]
+    }
+  }
+}
