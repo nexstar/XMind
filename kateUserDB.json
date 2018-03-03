@@ -66,6 +66,11 @@
     ]
   },
   "app": {
+    "live":[
+      {
+        "liveid":""
+      }
+    ],
     "petlist": [
       {
         "id": "",
@@ -75,7 +80,7 @@
         "plantname": "",
         "pic": "",
         "verify": "0",
-        "connected": "0"
+        "connectid": "0"
       }
     ],
     "notifi": [
