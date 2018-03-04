@@ -1,0 +1,48 @@
+{
+  "hotproducts": [
+    {
+      "productid": "",
+      "title": ""
+    },
+    {
+      "productid": "",
+      "title": ""
+    },
+    {
+      "productid": "",
+      "title": ""
+    },
+    {
+      "productid": "",
+      "title": ""
+    }
+  ],
+  "newsarticles":[
+    {
+      "articleid":""
+    },
+    {
+      "articleid":""
+    },
+    {
+      "articleid":""
+    },
+    {
+      "articleid":""
+    }
+  ],
+  "Carousel":[
+    {
+      "piclink":""
+    },
+    {
+      "piclink":""
+    },
+    {
+      "piclink":""
+    },
+    {
+      "piclink":""
+    }
+  ]
+}

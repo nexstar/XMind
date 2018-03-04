@@ -1,0 +1,12 @@
+{
+  "account":{
+    "id":"",
+    "pwd":"",
+    "name":""
+  },
+  "email":"",
+  "phone":"",
+  "smscount":"",
+  "ecpayid":"",
+  "ecapypwd":""
+}
